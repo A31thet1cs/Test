@@ -28,11 +28,14 @@ OPEN A TICKET IF YOU NEED TO SHARE SENSITIVE INFORMATION
 
 
 
-7. **Open scripts and configure them**
+7\. **Open scripts and configure them**
 
 {% hint style="danger" %}
 YOU MUST PUT THE EXACT TEAM NAME TO WORK
 {% endhint %}
+
+8\. **Disable Roblox's DEFAULT Leaderboard**
+Watch [this](https://www.youtube.com/watch?v=6KR_sXh-HTM) to learn how.
 
 ## AND WE'RE DONE!
 
